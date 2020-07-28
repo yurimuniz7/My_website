@@ -68,3 +68,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<p align="justify">Here you will find some of my presentations about topics that I study in physics. Since many of my talks are redundant with each other (e.g., same subject presented in different events), I carefully selected the ones that I found to be the most complete of them.</p>

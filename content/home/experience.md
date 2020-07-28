@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "PhD candidate"
+  title = "PhD student"
   company = "Universidade Federal do Rio de Janeiro"
   company_url = "https://www.if.ufrj.br/"
   location = "Rio de Janeiro"

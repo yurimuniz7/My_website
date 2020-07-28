@@ -61,3 +61,6 @@ Below you will find all the work I have done in physics, including my
 - Talks
 
 - Favourite books and papers
+
+
+For more information on my academic career in physics you can check my [Lattes CV](http://lattes.cnpq.br/3242680809384492)
