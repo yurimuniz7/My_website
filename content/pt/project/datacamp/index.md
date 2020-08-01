@@ -1,6 +1,6 @@
 ---
-title: DataCamp projects
-summary: Some projects designed by DataCamp that help practicing common data science activities like data cleaning and manipulation, data visualization, and machine learning modelling.
+title: Projetos do DataCamp
+summary: Alguns projetos especialmente preparados pelo DataCamp que visam a prática de atividades comuns em ciência de dados, como limpeza e manipulação de dados, visualização e implementação de modelos de aprendizado de máquinas.
 tags:
 - MOOC
 date: "2020-06-24"
@@ -9,7 +9,7 @@ date: "2020-06-24"
 external_link: https://github.com/yurimuniz7/DataCamp-projects
 
 image:
-  caption: DataCamp logo
+  caption: Logo do DataCampo
   focal_point: Smart
 
 #links:
