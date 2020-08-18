@@ -35,9 +35,24 @@ subtitle = ""
   name = "Git"
 
 [[feature]]
+  icon = "docker"
+  icon_pack = "custom"
+  name = "Docker"
+
+[[feature]]
+  icon = "amazonaws"
+  icon_pack = "custom"
+  name = "AWS"
+
+[[feature]]
   icon = "mathworks"
   icon_pack = "custom"
-  name = "MATLAB"  
+  name = "MATLAB"
+
+[[feature]]
+  icon = ""
+  icon_pack = "custom"
+  name = ""  
 
 [[feature]]
   icon = "wolframmathematica"

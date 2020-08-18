@@ -26,11 +26,15 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "On Kaggle"
+    name = "Personal"
+    tag = "personal"
+
+  [[content.filter_button]]
+    name = "Kaggle"
     tag = "kaggle"
 
   [[content.filter_button]]
-    name = "On MOOCs"
+    name = "MOOCs"
     tag = "MOOC"
 
 [design]

@@ -22,15 +22,19 @@ subtitle = ""
   filter_default = 0
 
   [[content.filter_button]]
-    name = "All"
+    name = "Todos"
     tag = "*"
 
   [[content.filter_button]]
-    name = "On Kaggle"
+    name = "Pessoais"
+    tag = "pessoais"
+
+  [[content.filter_button]]
+    name = "Kaggle"
     tag = "kaggle"
 
   [[content.filter_button]]
-    name = "On MOOCs"
+    name = "MOOCs"
     tag = "MOOC"
 
 [design]
