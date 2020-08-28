@@ -78,4 +78,14 @@ date_format = "01/06"
   date_start = "2020-07-05"
   date_end = "2020-07-15"
   description = "Uma introdução à controle de versão com Git para cientistas de dados."
+
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = "Docker for the Absolute Beginner - Hands On - DevOps"
+  url = "https://www.udemy.com/course/learn-docker/"
+  certificate_url = "https://www.udemy.com/certificate/UC-c31a692a-7b61-4255-831d-e5813f8d1fad/"
+  date_start = "2020-08-08"
+  date_end = "2020-08-12"
+  description = "Uma introdução ao Docker para iniciantes."
 +++

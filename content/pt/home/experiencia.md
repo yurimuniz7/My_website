@@ -28,22 +28,22 @@ date_format = "01/06"
   description = """Atualmente eu trabalho com pesquisa básica em nano-ótica, fotônica e plasmônica. Meu principal objetivo é estudar a influência de materiais, como por exemplo materiais bidimensionais, na interação da luz com a matéria."""
 
 [[experience]]
-  title = "Summer student"
+  title = "*Summer student*"
   company = "Los Alamos National Laboratory"
   company_url = "https://www.lanl.gov/"
   location = "Novo México"
   date_start = "2019-07-15"
   date_end = "2019-09-07"
-  description = """Como parte do programa para estudantes do centro para estudos não-lineares (CNLS) do laboratório nacional de Los Alamos, fui contratado para trabalhar em um projeto teórico sobre emissão espontânea de dois fótons em nanoestruturas plasmônicas bidimensionais.
+  description = """Como parte do programa para estudantes do centro para estudos não-lineares (CNLS) do laboratório nacional de Los Alamos, trabalhei em um projeto teórico sobre emissão espontânea de dois fótons em nanoestruturas plasmônicas bidimensionais.
   """
 
 [[experience]]
-  title = "Professor temporário"
+  title = "Monitor de prática de ensino"
   company = "Universidade Federal do Rio de Janeiro"
   company_url = "https://www.if.ufrj.br/"
   location = "Rio de Janeiro"
-  date_start = "2017-07-30"
-  date_end = "2018-12-30"
+  date_start = "2018-03-30"
+  date_end = "2019-08-30"
   description = """Ministrei os cursos de *física experimental I e II* para alunos de graduação como parte das exigências do programa de pós-graduação da UFRJ."""
 
 [[experience]]

@@ -34,16 +34,16 @@ date_format = "Jan 2006"
   location = "New Mexico"
   date_start = "2019-07-15"
   date_end = "2019-09-07"
-  description = """As part of the Center for Nonlinear Studies (CNLS) Summer Student Program, I was hired to work in a theoretical project about two-photon emission in bidimensional plasmonic nanostructures.
+  description = """As part of the Center for Nonlinear Studies (CNLS) Summer Student Program, I worked in a theoretical project about two-photon emission in bidimensional plasmonic nanostructures.
   """
 
 [[experience]]
-  title = "Teacher"
+  title = "*Monitor de prática de ensino*"
   company = "Universidade Federal do Rio de Janeiro"
   company_url = "https://www.if.ufrj.br/"
   location = "Rio de Janeiro"
-  date_start = "2017-07-30"
-  date_end = "2018-12-30"
+  date_start = "2018-03-30"
+  date_end = "2019-08-30"
   description = """Taught *experimental physics I and II* at the undergraduate level as part of my graduate program requirements."""
 
 [[experience]]

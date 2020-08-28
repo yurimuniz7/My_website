@@ -39,10 +39,10 @@ subtitle = ""
   icon_pack = "custom"
   name = "Docker"
 
-[[feature]]
-  icon = "amazonaws"
-  icon_pack = "custom"
-  name = "AWS"
+#[[feature]]
+#  icon = "amazonaws"
+#  icon_pack = "custom"
+#  name = "AWS"
 
 [[feature]]
   icon = "mathworks"
