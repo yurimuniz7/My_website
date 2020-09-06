@@ -1,6 +1,6 @@
 ---
 title: Visualizando publicações científicas
-summary: Obtendo e analizando dados sobre publicações científicas nas revistas da Springer Nature.
+summary: Obtendo e analisando dados sobre publicações científicas nas revistas da Springer Nature.
 tags:
 - pessoais
 date: "2020-08-18"
