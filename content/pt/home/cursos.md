@@ -82,6 +82,26 @@ date_format = "01/06"
 [[item]]
   organization = "Udemy"
   organization_url = "https://www.udemy.com/"
+  title = "AWS Certified Solutions Architect - Associate 2020"
+  url = "https://www.udemy.com/course/aws-certified-solutions-architect-associate/"
+  certificate_url = "https://www.udemy.com/certificate/UC-b4cd20c1-c945-4f2d-b6e1-91c71648d67b/"
+  date_start = "2020-08-10"
+  date_end = "2020-09-10"
+  description = "Curso de introdução aos serviços da Amazon Web Services (AWS) com foco na preparação do aluno para o exame de certificação \"Certified Solutions Architect - Associate\""
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Introduction to Tableau"
+  url = "https://www.datacamp.com/courses/introduction-to-tableau"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/f1ef04895a1957c7fac5c2cf02195a6e6cf7fc07"
+  date_start = "2020-09-07"
+  date_end = "2020-09-14"
+  description = "Curso voltado ao aprendizado da ferramenta de análise e visualização de dados, Tableau"
+
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
   title = "Docker for the Absolute Beginner - Hands On - DevOps"
   url = "https://www.udemy.com/course/learn-docker/"
   certificate_url = "https://www.udemy.com/certificate/UC-c31a692a-7b61-4255-831d-e5813f8d1fad/"

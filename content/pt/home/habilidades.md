@@ -39,20 +39,20 @@ subtitle = ""
   icon_pack = "custom"
   name = "Docker"
 
-#[[feature]]
-#  icon = "amazonaws"
-#  icon_pack = "custom"
-#  name = "AWS"
+[[feature]]
+  icon = "amazonaws"
+  icon_pack = "custom"
+  name = "AWS"
+
+[[feature]]
+  icon = "tableau"
+  icon_pack = "custom"
+  name = "Tableau"
 
 [[feature]]
   icon = "mathworks"
   icon_pack = "custom"
-  name = "MATLAB"
-
-[[feature]]
-  icon = ""
-  icon_pack = "custom"
-  name = ""  
+  name = "MATLAB"  
 
 [[feature]]
   icon = "wolframmathematica"
