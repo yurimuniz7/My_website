@@ -34,6 +34,10 @@ subtitle = ""
     tag = "kaggle"
 
   [[content.filter_button]]
+    name = "Tableau"
+    tag = "tableau"
+
+  [[content.filter_button]]
     name = "MOOCs"
     tag = "MOOC"
 
