@@ -1,9 +1,9 @@
 ---
-title: FIFA 20 - Análise de dados de jogadores de futebol
-summary: "Obtendo e analisando dados de jogadores profissionais disponíveis no FIFA 20. Em desenvolvimento: aplicação de previsão de salários e posições preferidas de jogadores."
+title: FIFA 20 - Salários e posições de jogadores de futebol
+summary: "API para previsão de salários e posições de jogadores profissionais do FIFA. O projeto também conta com o web scraping dos dados do site [FIFA Index](https://www.fifaindex.com/) e bastante análise exploratória. Em desenvolvimento: webapp com uma interface simples para usuários."
 tags:
 - pessoais
-date: "2020-09-06"
+date: "2020-10-15"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://github.com/yurimuniz7/FIFA-20-players-analysis-and-predictions

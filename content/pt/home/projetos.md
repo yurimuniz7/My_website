@@ -83,4 +83,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<p align="justify"> Esta seção contém os trabalhos que eu desenvolvi na área de ciência de dados até o momento. Estudo o assunto desde maio de 2020, portanto, ainda estou pensando em projetos do meu agrado, trabalhando em competições na plataforma Kaggle e tentando construir um portfólio interessante e diferenciado.</p>
+<p align="justify"> Esta seção contém os trabalhos que eu desenvolvi na área de ciência de dados até o momento. Estudo o assunto desde maio de 2020 e, desde então, venho tentando construir um portfólio interessante e diferenciado.</p>

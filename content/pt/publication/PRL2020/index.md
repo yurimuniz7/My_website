@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "Physical Review Letters"
 publication_short: "PhysRevLett"
 
-abstract: <p align="justify"> The ability to harness light-matter interactions at the few-photon level plays a pivotal role in quantum technologies. Single photons—the most elementary states of light—can be generated on demand in atomic and solid state emitters. Two-photon states are also key quantum assets, but achieving them in individual emitters is challenging because their generation rate is much slower than competing one-photon processes. We demonstrate that atomically thin plasmonic nanostructures can harness two-photon spontaneous emission, resulting in giant far field two-photon production, a wealth of resonant modes enabling tailored photonic and plasmonic entangled states, and plasmon-assisted single-photon creation orders of magnitude more efficient than standard one-photon emission. We unravel the two-photon spontaneous emission channels and show that their spectral line shapes emerge from an intricate interplay between Fano and Lorentzian resonances. Enhanced two-photon spontaneous emission in two-dimensional nanostructures paves the way to an alternative efficient source of light-matter entanglement for on-chip quantum information processing and free-space quantum communications.</p>
+abstract: Um breve resumo desse trabalho pode ser encontrado no [site da SBF](http://www.sbfisica.org.br/v1/home/index.php/pt/destaque-em-fisica/1191-nanoestruturas-plasmonicas-podem-emitir-fotons-para-tecnologias-quanticas). <p align="justify"> The ability to harness light-matter interactions at the few-photon level plays a pivotal role in quantum technologies. Single photons—the most elementary states of light—can be generated on demand in atomic and solid state emitters. Two-photon states are also key quantum assets, but achieving them in individual emitters is challenging because their generation rate is much slower than competing one-photon processes. We demonstrate that atomically thin plasmonic nanostructures can harness two-photon spontaneous emission, resulting in giant far field two-photon production, a wealth of resonant modes enabling tailored photonic and plasmonic entangled states, and plasmon-assisted single-photon creation orders of magnitude more efficient than standard one-photon emission. We unravel the two-photon spontaneous emission channels and show that their spectral line shapes emerge from an intricate interplay between Fano and Lorentzian resonances. Enhanced two-photon spontaneous emission in two-dimensional nanostructures paves the way to an alternative efficient source of light-matter entanglement for on-chip quantum information processing and free-space quantum communications.</p>
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +44,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: https://www.youtube.com/watch?v=SLPQrckEYFs&feature=emb_title
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
