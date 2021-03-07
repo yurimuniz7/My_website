@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student of Physics
+role: Data scientist | PhD student of Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Universidade Federal do Rio de Janeiro
+- name: GAVB consulting | Universidade Federal do Rio de Janeiro
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: A passionate physicist and data scientist who is currently looking for his first job opportunity.
+bio: Data scientist, PhD student (Physics), driven by challenges.
 
 interests:
 - Data Science
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-<p align="justify">Hi, I'm currently a PhD student of physics at Universidade Federal do Rio de Janeiro (UFRJ), where I study light-matter interaction related phenomenon. My main research areas are nano-optics, nanophotonics, plasmonics, and bidimensional materials. I also have great interest in the world of data science and machine learning, and have been working hard to improve my skills in this field.</p>
+<p align="justify">Hi, I'm a data scientist at GAVB consulting. I currently work in the optimization team, where I try to help the business decision making of GAVB customers through data analysis, mathematical optimization, and machine learning models. I'm also a PhD student of physics at Universidade Federal do Rio de Janeiro (UFRJ), where I study light-matter interaction related phenomenon. My main research areas are nano-optics, nanophotonics, plasmonics, and bidimensional materials.</p>
 
-<p align="justify">In my free time I enjoy playing video games (mostly RPGs and strategy games), listen to music (heavy metal and folk), play the guitar, and also read about different topics. The purpose of this website is to show not only my recent projects and knowledge of data science, but also to make public all the work that I've done in physics. I truly believe that sharing your work online has great potential to help others, who may find value on the content you create.</p>   
+<p align="justify">In my free time I enjoy playing video games (mostly RPGs and strategy games), listen to music (heavy metal and folk), play the guitar, and also read about different topics. The purpose of this website is to make public my projects and study materials of data science, and also the work I've done in physics. I truly believe that sharing your work online has great potential to help others, who may find value on the content you create.</p>   

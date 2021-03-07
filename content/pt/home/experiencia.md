@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
-title = "Experiência acadêmica"
+title = "Experiência"
 subtitle = ""
 
 # Date format for experience
@@ -19,13 +19,22 @@ date_format = "01/06"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Cientista de dados"
+  company = "GAVB consulting"
+  company_url = "https://www.gavb.com.br/"
+  location = "Rio Grande do Sul"
+  date_start = "2020-11-16"
+  date_end = ""
+  description = """Faço parte da equipe de otimização matemática, onde atuo em projetos que visam melhorar a tomada de decisão de negócios."""
+
+[[experience]]
   title = "Doutorando"
   company = "Universidade Federal do Rio de Janeiro"
   company_url = "https://www.if.ufrj.br/"
   location = "Rio de Janeiro"
   date_start = "2018-09-01"
   date_end = ""
-  description = """Atualmente eu trabalho com pesquisa básica em nano-ótica, fotônica e plasmônica. Meu principal objetivo é estudar a influência de materiais, como por exemplo materiais bidimensionais, na interação da luz com a matéria."""
+  description = """Meus temas de pesquisa no doutorado são nano-ótica, fotônica e plasmônica. Meu principal objetivo é estudar a influência de materiais, como por exemplo materiais bidimensionais, na interação da luz com a matéria."""
 
 [[experience]]
   title = "*Summer student*"

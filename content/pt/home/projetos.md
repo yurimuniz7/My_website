@@ -83,4 +83,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<p align="justify"> Esta seção contém os trabalhos que eu desenvolvi na área de ciência de dados até o momento. Estudo o assunto desde maio de 2020 e, desde então, venho tentando construir um portfólio interessante e diferenciado.</p>
+<p align="justify"> Esta seção contém alguns materiais de estudo e projetos que desenvolvi na área de ciência de dados até o momento. Selecionei apenas os que considerei mais interessantes, mas meu portfólio completo pode ser acessado no <a href="https://github.com/yurimuniz7">meu github</a>.</p>

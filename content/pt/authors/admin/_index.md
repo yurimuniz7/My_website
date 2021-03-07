@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Doutorando em física
+role: Cientista de dados | Doutorando em física
 
 # Organizations/Affiliations
 organizations:
-- name: Universidade Federal do Rio de Janeiro
+- name: GAVB consulting | Universidade Federal do Rio de Janeiro
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Um físico e cientista de dados apaixonado pelo que faz e que no momento busca sua primeira oportunidade de emprego.
+bio: Cientista de dados, doutorando em física, movido a desafios.
 
 interests:
 - Ciência de dados
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-<p align="justify">Olá, atualmente sou aluno de doutorado em física pela Universidade Federal do Rio de Janeiro (UFRJ), onde estudo fenômenos da interação da luz com a matéria. Meus principais temas de pesquisa são nano-ótica, fotônica, plasmônica e materiais bidimensionais. Também possuo grande interesse em ciência de dados e aprendizado de máquinas, e tenho continuamente trabalhado para aprimorar minhas habilidades nessa área.</p>
+<p align="justify">Olá, sou cientista de dados na GAVB consulting, onde atualmente faço parte da equipe de otimização matemática. No meu dia a dia, atuo em projetos que visam melhorar a tomada de decisão de negócios através da análise de dados estratégicos, modelos de otimização matemática e eventualmente machine learning. Também sou aluno de doutorado em física pela Universidade Federal do Rio de Janeiro (UFRJ), onde estudo fenômenos da interação da luz com a matéria. Meus principais temas de pesquisa são nano-ótica, fotônica, plasmônica e materiais bidimensionais.</p>
 
-<p align="justify">No meu tempo livre, gosto de jogar videogame (preferencialmente RPGs e jogos de estratégia), ouvir música (heavy metal e folk), tocar guitarra e ler sobre diversos assuntos. Esse site tem como objetivo mostrar não apenas meus projetos e conhecimentos em ciência de dados, mas também tornar público o trabalho que desenvolvo em física. Eu verdadeiramente acredito que o ato de compartilhar seu trabalho na internet possui grande potencial de ajudar outras pessoas, que podem encontrar valor no conteúdo que você produz.</p>   
+<p align="justify">No meu tempo livre, gosto de jogar videogame (preferencialmente RPGs e jogos de estratégia), ouvir música (heavy metal e folk), tocar guitarra e ler sobre diversos assuntos. Esse site tem como objetivo tornar público alguns materiais de estudo e projetos que desenvolvi em ciência de dados, assim como trabalhos e seminários que apresentei em física. Eu verdadeiramente acredito que o ato de publicar seu trabalho na internet possui grande potencial de ajudar outras pessoas, que podem encontrar algum valor naquilo que você produz.</p>   

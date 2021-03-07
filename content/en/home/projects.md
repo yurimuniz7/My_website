@@ -83,4 +83,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<p align="justify">Here I want to showcase some of the work I've done in the field of data science so far. I study this subject since May 2020. Since then, I have been working on kaggle competitions, and trying to build a nice and distinct portfolio.</p>
+<p align="justify">Here I want to showcase some of my data science projects and study materials. My whole portfolio can be found at <a href = "https://github.com/yurimuniz7/"> my github</a>.</p>

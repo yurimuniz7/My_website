@@ -108,4 +108,14 @@ date_format = "Jan 2006"
   date_start = "2020-08-08"
   date_end = "2020-08-12"
   description = "An introduction to Docker for beginners"
+
+    [[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = "2021 Complete Pyomo Bootcamp: Python Optimization Beginners"
+  url = "https://www.udemy.com/course/optimization-in-python/"
+  certificate_url = "https://www.udemy.com/certificate/UC-5e5d4098-313e-4710-94fb-60d989e8a43e/"
+  date_start = "2021-02-15"
+  date_end = "2021-03-03"
+  description = "Hands-on course of mathematical optimization with Pyomo"
 +++

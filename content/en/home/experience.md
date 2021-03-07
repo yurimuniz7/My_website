@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
-title = "Academic experience"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -17,6 +17,15 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Data scientist"
+  company = "GAVB consulting"
+  company_url = "https://www.gavb.com.br/"
+  location = "Rio Grande do Sul"
+  date_start = "2020-11-16"
+  date_end = ""
+  description = """I currently work in projects that drive business decision making through data analysis, mathematical optimization, and machine learning models."""
 
 [[experience]]
   title = "PhD student"
