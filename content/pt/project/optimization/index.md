@@ -1,8 +1,8 @@
 ---
 title: Otimização matemática com Pyomo
-summary: Inteligência artificial não se resume a machine learning. Otimização matemática é a técnica ideal para quem deseja tomar as melhores decisões e pode [complementar um algoritmo preditivo](https://www.youtube.com/watch?v=aHvFSkXvucI&ab_channel=GurobiOptimization). Nesse repositório resolvo alguns problemas de otimização utilizando o [Pyomo](http://www.pyomo.org/).
+summary: Inteligência artificial não se resume a machine learning. Otimização matemática é uma excelente ferramenta para tomada de decisão e pode [complementar um algoritmo preditivo](https://www.youtube.com/watch?v=aHvFSkXvucI&ab_channel=GurobiOptimization).
 tags:
-- pessoais
+- mo
 date: "2021-03-05"
 
 # Optional external URL for project (replaces project detail page).

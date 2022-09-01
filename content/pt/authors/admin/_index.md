@@ -14,17 +14,17 @@ role: Cientista de dados | Doutorando em física
 
 # Organizations/Affiliations
 organizations:
-- name: GAVB consulting | Universidade Federal do Rio de Janeiro
+- name: Grupo Boticário | Universidade Federal do Rio de Janeiro
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cientista de dados, doutorando em física, movido a desafios.
+bio: Cientista de dados e doutorando em física. Meio obcecado com causalidade.
 
 interests:
 - Ciência de dados
 - Inteligência artificial
-- Programação
-- Física
+- Inferência causal
+- Matemática e física
 
 education:
   courses:
@@ -49,9 +49,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yurimuniz7
-- icon: kaggle
-  icon_pack: fab
-  link: https://www.kaggle.com/yurimuniz
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=66pZi4UAAAAJ
@@ -71,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-<p align="justify">Olá, sou cientista de dados na GAVB consulting, onde atualmente faço parte da equipe de otimização matemática. No meu dia a dia, atuo em projetos que visam melhorar a tomada de decisão de negócios através da análise de dados estratégicos, modelos de otimização matemática e eventualmente machine learning. Também sou aluno de doutorado em física pela Universidade Federal do Rio de Janeiro (UFRJ), onde estudo fenômenos da interação da luz com a matéria. Meus principais temas de pesquisa são nano-ótica, fotônica, plasmônica e materiais bidimensionais.</p>
+<p align="justify">Olá, sou cientista de dados no Grupo Boticário (GB), onde faço parte do time de <i>Revenue Growth Management</i>  (RGM). No meu dia a dia, atuo em projetos que visam melhorar a precificação dos produtos do GB a partir de análises de dados e modelos matemáticos. Também sou aluno de doutorado em física pela Universidade Federal do Rio de Janeiro (UFRJ), onde estudo fenômenos da interação da luz com a matéria. Meus principais temas de pesquisa são nano-ótica, fotônica, plasmônica e materiais bidimensionais.</p>
 
-<p align="justify">No meu tempo livre, gosto de jogar videogame (preferencialmente RPGs e jogos de estratégia), ouvir música (heavy metal e folk), tocar guitarra e ler sobre diversos assuntos. Esse site tem como objetivo tornar público alguns materiais de estudo e projetos que desenvolvi em ciência de dados, assim como trabalhos e seminários que apresentei em física. Eu verdadeiramente acredito que o ato de publicar seu trabalho na internet possui grande potencial de ajudar outras pessoas, que podem encontrar algum valor naquilo que você produz.</p>   
+<p align="justify">No meu tempo livre, gosto de jogar videogame (preferencialmente RPGs e jogos de estratégia), ouvir e aprender música e ler sobre diversos assuntos. Esse site tem como objetivo tornar público alguns materiais de estudo e trabalhos que realizei ao longo de minha jornada, tanto acadêmica quanto no mercado. Eu verdadeiramente acredito que o simples ato de publicar seu trabalho na internet gratuitamente possui grande potencial de ajudar outras pessoas, que podem encontrar algum valor naquilo que você produz.</p>   

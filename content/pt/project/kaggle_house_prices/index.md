@@ -1,8 +1,8 @@
 ---
-title: Predizendo preços de casas
-summary: Competição introdutória com o famoso exemplo didático de predição do preço de uma casa dado um conjunto de dados rotulados.
+title: Regressão de preços de casas
+summary: Estudo de regressão com modelos lineares e gradient boosting.
 tags:
-- kaggle
+- ml
 date: "2020-07-11"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,8 +1,8 @@
 ---
-title: Processamento de linguagem natural com tweets sobre desastres
-summary: É possível descobrir se um tweet se refere a um desastre recente ou não? Realizando bastante PLN antes de aplicar um algoritmo de aprendizado a resposta é sim.
+title: NLP com tweets sobre desastres
+summary: Estudo de NLP com um dataset do Kaggle.
 tags:
-- kaggle
+- ml
 date: "2020-08-07"
 
 # Optional external URL for project (replaces project detail page).

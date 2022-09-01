@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
-title = "Projetos em ciência de dados"
+title = "Materiais de estudo"
 subtitle = ""
 
 [content]
@@ -26,20 +26,12 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Pessoais"
-    tag = "pessoais"
+    name = "Machine Learning"
+    tag = "ml"
 
   [[content.filter_button]]
-    name = "Kaggle"
-    tag = "kaggle"
-
-  [[content.filter_button]]
-    name = "Tableau"
-    tag = "tableau"
-
-  [[content.filter_button]]
-    name = "MOOCs"
-    tag = "MOOC"
+    name = "Otimização matemática"
+    tag = "mo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -83,4 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<p align="justify"> Esta seção contém alguns materiais de estudo e projetos que desenvolvi na área de ciência de dados até o momento. Selecionei apenas os que considerei mais interessantes, mas meu portfólio completo pode ser acessado no <a href="https://github.com/yurimuniz7">meu github</a>.</p>
+<p align="justify"> Alguns materiais de estudo que desenvolvi na minha jornada em ciência de dados. Selecionei apenas o que imagino que possa ser útil para alguém.</p>

@@ -5,19 +5,19 @@
 
 
 [[main]]
-  name = "Projetos"
+  name = "Estudo DS"
   url = "#projetos"
   weight = 1
 
-[[main]]
-  name = "Experiência"
-  url = "#experiencia"
-  weight = 2
+#[[main]]
+#  name = "Experiência"
+#  url = "#experiencia"
+#  weight = 2
 
-[[main]]
-  name = "Certificados"
-  url = "#cursos"
-  weight = 3
+#[[main]]
+#  name = "Certificados"
+#  url = "#cursos"
+#  weight = 3
 
 [[main]]
   name = "Publicações"
@@ -30,8 +30,8 @@
   weight = 5
 
 [[main]]
-  name = "Diversos"
-  url = "#diversos"
+  name = "Recomendações"
+  url = "#recomendacoes"
   weight = 6
 
 [[main]]

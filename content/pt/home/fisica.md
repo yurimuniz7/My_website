@@ -54,13 +54,13 @@ Abaixo você encontrará todo o meu trabalho em física, incluíndo meu(s)/minha
 
 
 
+- Tese de doutorado
+
 - Dissertação de mestrado
 
 - Publicações em revistas científicas
 
 - Seminários
 
-- Livros e artigos favoritos
 
-
-Para mais informações sobre a minha carreira acadêmica, você pode acessar o meu [currículo Lattes](http://lattes.cnpq.br/3242680809384492)
+Para mais informações sobre a minha carreira acadêmica, acesse meu [currículo Lattes](http://lattes.cnpq.br/3242680809384492)
