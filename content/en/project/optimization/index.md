@@ -1,6 +1,6 @@
 ---
 title: Mathematical optimization with Pyomo
-summary: Artificial intelligence is not just about machine learning. Mathematical optimization is the perfect tool for harnessing business decision making, while it also [adds value to predictive models](https://www.youtube.com/watch?v=aHvFSkXvucI&ab_channel=GurobiOptimization). In this repository you find some optimization solved problems with [Pyomo](http://www.pyomo.org/).
+summary: Artificial intelligence is not just about machine learning. Mathematical optimization is the perfect tool for harnessing business decision making, while it also [adds value to predictive models](https://www.youtube.com/watch?v=aHvFSkXvucI&ab_channel=GurobiOptimization).
 tags:
 - personal
 date: "2021-03-05"

@@ -1,6 +1,6 @@
 ---
-title: Natural language processing with disaster tweets
-summary: Is it possible to know beforehand if a tweet refers to a disaster or not? By using a lot of NLP before applying a machine learning algorithm the answer is yes.
+title: NLP with disaster tweets
+summary: Natural language processing study with a kaggle dataset.
 tags:
 - kaggle
 date: "2020-08-07"

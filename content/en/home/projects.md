@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
-title = "Data Science Projects"
+title = "Study materials"
 subtitle = ""
 
 [content]
@@ -26,20 +26,12 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Personal"
-    tag = "personal"
+    name = "Machine learning"
+    tag = "ml"
 
   [[content.filter_button]]
-    name = "Kaggle"
-    tag = "kaggle"
-
-  [[content.filter_button]]
-    name = "Tableau"
-    tag = "tableau"
-
-  [[content.filter_button]]
-    name = "MOOCs"
-    tag = "MOOC"
+    name = "Mathematical Optimization"
+    tag = "mo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -83,4 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<p align="justify">Here I want to showcase some of my data science projects and study materials. My whole portfolio can be found at <a href = "https://github.com/yurimuniz7/"> my github</a>.</p>
+<p align="justify">Here I just want to share some of my data science mini projects and study materials.</p>

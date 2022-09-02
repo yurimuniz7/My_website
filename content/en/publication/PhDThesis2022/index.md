@@ -1,5 +1,5 @@
 ---
-title: "Quantum light-matter interactions in low-dimensional materials (Tese de doutorado)"
+title: "Quantum light-matter interactions in low-dimensional materials (PhD thesis)"
 authors:
 - admin
 

@@ -1,6 +1,6 @@
 ---
-title: Predicting house prices
-summary: Getting started competition on the famous example of predicting the price of a house given a sample of labeled data.
+title: House prices regression
+summary: A small study on regression with linear and gradient boosting models.
 tags:
 - kaggle
 date: "2020-07-11"

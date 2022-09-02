@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 13  # Order that this section will appear.
 
-title = "Miscellaneous"
+title = "Recommendations"
 subtitle = ""
 
 [design]
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<p align="justify">If you are interested in knowing what books, papers, and other materials had the biggest influence on my career, I prepared this section for you. Of course I could highlight many other influences here, but I will rather give only a brief list about physics and machine learning.</p>
+<p align="justify">If you are interested in knowing what books, papers, and other materials had the biggest influence on my career, I prepared this section for you. Of course I could highlight many other influences here, but I will rather give only a brief list about physics and data science.</p>
 
 **Physics**
 
@@ -60,7 +60,7 @@ subtitle = ""
 
 - [**Photons and atoms: introduction to quantum electrodynamics**](https://www.amazon.com.br/Photons-Atoms-Introduction-Quantum-Electrodynamics/dp/0471184330), by *Cohen-Tannoudji*. This is a more technical book about quantum electrodynamics and atom-photon interactions. I recommend it to any physicist who wants to have a deep understanding of the theory behind light-matter interactions.
 
-**Machine Learning**
+**Data Science, AI, and Causal Inference**
 
 - [**Gabriel Schleder**](https://gschleder.github.io/) [**machine learning tutorial**](https://github.com/gschleder/MLtutorial). This tutorial was presented at the 2019 Autumn Meeting of the Brazilian Society of Physics (EOSBF) and was the first contact that I had with machine learning (besides hearing about it from others). It is based on his [very nice paper about machine learning applied to materials science](https://iopscience.iop.org/article/10.1088/2515-7639/ab084b/pdf).
 
@@ -69,3 +69,7 @@ subtitle = ""
 - [**A self-adaptive microwave cloak using Deep Learning**](https://www.researchgate.net/publication/340110736_Deep-learning-enabled_self-adaptive_microwave_cloak_without_human_intervention). Since metasurface cloaks are related to my research (see for instance [this work from my co-advisor](https://arxiv.org/pdf/1308.5022.pdf)), this paper made me realize that machine learning can be applied in all areas of science and technology.
 
 - [**Introduction to Statistical Learning: With Applications in R**](https://www.amazon.com.br/Introduction-Statistical-Learning-Applications-103/dp/1461471370), by *Gareth James*. Since I have a strong academic background, I had a much better time with this book than others. I find amazing that every statistical concept and machine learning algorithm in this book is presented in a very clear way. I also recommend the [Andrew Ng machine learning course](https://www.coursera.org/learn/machine-learning?) available at Coursera as an excellent introduction to the subject.
+
+- [**The book of Why: The New Science of Cause and Effect**](https://www.amazon.com.br/Book-Why-Science-Cause-Effect/dp/1541698967), by *Judea Pearl*. Only after I started working with data science that I realized how limited machine learning is as a tool for understanding the causes of observable effects (try using a ML model to estimate the effect of raising prices of hotel rooms on their occupation rates to see what happens!). This book is an amazing introduction on causal inference, with really interesting comments on the limits of the current state of AI (and even on the limits of statistical analysis!).
+
+- [**Causal Inference for the Brave and True**](https://matheusfacure.github.io/python-causality-handbook/landing-page.html), by *Matheus Facure*. An excellent starting point for whom wishes to dive into the causal inference wonderland. It is really well written and provides many other references on the field.

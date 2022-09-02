@@ -54,6 +54,8 @@ Below you will find all the work I have done in physics, including my
 
 
 
+- PhD thesis 
+
 - Master thesis
 
 - Publications
