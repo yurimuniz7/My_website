@@ -68,4 +68,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<p align="justify"> Aqui você encontrará algumas das minhas apresentações sobre assuntos que estudo em física. Como vários de meus seminários são redundantes uns com os outros (por exemplo, mesmo tema apresentado em diferentes lugares), eu selecionei cuidadosamente aqueles que julguei serem os mais completos e melhor organizados.</p>
+<p align="justify"> Aqui você encontrará algumas de minhas apresentações em física. Selecionei cuidadosamente aquelas que julguei serem as mais completas e organizadas.</p>

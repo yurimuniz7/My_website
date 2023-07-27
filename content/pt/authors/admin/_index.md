@@ -10,24 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Cientista de dados | Doutorando em física
+role: Cientista de dados
 
 # Organizations/Affiliations
 organizations:
-- name: Grupo Boticário | Universidade Federal do Rio de Janeiro
+- name: Dell Technologies
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cientista de dados e doutorando em física. Meio obcecado com causalidade.
+bio: Cientista de dados | Doutor em física.
 
 interests:
-- Ciência de dados
-- Inteligência artificial
-- Inferência causal
-- Matemática e física
+- Física e matemática
+- Finanças e economia
+- Inteligência artificial e inferência causal
 
 education:
   courses:
+  - course: Doutorado em Física
+    institution: Universidade Federal do Rio de Janeiro
+    year: 2022
   - course: Mestrado em Física
     institution: Universidade Federal do Rio de Janeiro
     year: 2018
@@ -68,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-<p align="justify">Olá, sou cientista de dados no Grupo Boticário (GB), onde faço parte do time de <i>Revenue Growth Management</i>  (RGM). No meu dia a dia, atuo em projetos que visam melhorar a precificação dos produtos do GB a partir de análises de dados e modelos matemáticos. Também sou aluno de doutorado em física pela Universidade Federal do Rio de Janeiro (UFRJ), onde estudo fenômenos da interação da luz com a matéria. Meus principais temas de pesquisa são nano-ótica, fotônica, plasmônica e materiais bidimensionais.</p>
+<p align="justify">Olá, sou cientista de dados na Dell Technologies, onde atuo em projetos que visam melhorar a precificação de produtos a partir de análises de dados e modelos matemáticos. Também sou doutor em física pela Universidade Federal do Rio de Janeiro (UFRJ), onde estudei fenômenos da interação da luz com a matéria. Meus principais temas de pesquisa foram nano-ótica, fotônica, plasmônica e materiais bidimensionais.</p>
 
-<p align="justify">No meu tempo livre, gosto de jogar videogame (preferencialmente RPGs e jogos de estratégia), ouvir e aprender música e ler sobre diversos assuntos. Esse site tem como objetivo tornar público alguns materiais de estudo e trabalhos que realizei ao longo de minha jornada, tanto acadêmica quanto no mercado. Eu verdadeiramente acredito que o simples ato de publicar seu trabalho na internet gratuitamente possui grande potencial de ajudar outras pessoas, que podem encontrar algum valor naquilo que você produz.</p>   
+<p align="justify">No meu tempo livre, gosto de jogar videogame (preferencialmente RPGs e jogos de estratégia), ouvir e aprender música e ler sobre diversos assuntos. Esse site tem como objetivo tornar público alguns materiais de estudo e trabalhos que realizei ao longo de minha jornada, tanto acadêmica quanto no mercado. Eu acredito que o simples ato de publicar seu trabalho na internet gratuitamente possui grande potencial de ajudar outras pessoas, que podem encontrar algum valor naquilo que você produz.</p>   

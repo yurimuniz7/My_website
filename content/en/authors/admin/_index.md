@@ -10,24 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist | PhD Candidate of Physics
+role: Data Scientist | PhD in Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Grupo Boticário | Universidade Federal do Rio de Janeiro
+- name: Dell Technologies
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data scientist and PhD candidate (Physics). A little obsessed with causal questions.
+bio: Data scientist and PhD (Physics).
 
 interests:
-- Data Science
-- Artificial Intelligence
-- Causal inference
-- Math and physics
+- Physics and math
+- Finance and economics
+- Artificial Intelligence and causal inference
 
 education:
   courses:
+  - course: PhD in Physics
+    institution: Universidade Federal do Rio de Janeiro
+    year: 2022
   - course: Msc in Physics
     institution: Universidade Federal do Rio de Janeiro
     year: 2018
@@ -68,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-<p align="justify">Hi, I'm a data scientist at Grupo Boticário (GB), where I'm part of the Revenue Growth Management (RGM) team. In my day-to-day work I participate in projects that aim to improve pricing of GB products with data analysis and statistical models. I'm also a PhD candidate of physics at Universidade Federal do Rio de Janeiro (UFRJ), where I study light-matter interaction related phenomenon. My main research areas are nano-optics, nanophotonics, plasmonics, and two-dimensional materials.</p>
+<p align="justify">Hi, I'm a data scientist at Dell Technologies, where I work in projects that aim to improve pricing decisions with data analysis and statistical models. I also hold a PhD in physics from the Federal University of Rio de Janeiro (UFRJ), where I have studied light-matter interaction related phenomena. My main research areas were nano-optics, nanophotonics, plasmonics, and two-dimensional materials.</p>
 
-<p align="justify">In my free time I enjoy playing video games (mostly RPGs and strategy games), listen to music (and learn a little bit), and also read about different topics. The purpose of this website is to make public some of my study materials in data science and the work I've done in physics. I truly believe that freely sharing your work online has great potential to help others, who may find value on the content you create.</p>   
+<p align="justify">In my free time I enjoy playing video games (mostly RPGs and strategy games), listen to music (and learn a little bit), and also read about different topics. The purpose of this website is to make public some of my study materials in data science and the work I've done in physics. I believe that freely sharing your work online has great potential to help others, who may find value on the content you create.</p>   

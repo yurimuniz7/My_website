@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<p align="justify">If you are interested in knowing what books, papers, and other materials had the biggest influence on my career, I prepared this section for you. Of course I could highlight many other influences here, but I will rather give only a brief list about physics and data science.</p>
+<p align="justify">Below are some recommendations of books, articles, and other materials that have had a significant impact on my professional life.</p>
 
 **Physics**
 
@@ -60,15 +60,25 @@ subtitle = ""
 
 - [**Photons and atoms: introduction to quantum electrodynamics**](https://www.amazon.com.br/Photons-Atoms-Introduction-Quantum-Electrodynamics/dp/0471184330), by *Cohen-Tannoudji*. This is a more technical book about quantum electrodynamics and atom-photon interactions. I recommend it to any physicist who wants to have a deep understanding of the theory behind light-matter interactions.
 
-**Data Science, AI, and Causal Inference**
+- [**Veritasium (YT channel)**](https://www.youtube.com/@veritasium). I ever found amazing how exceptional this channel is. The diversity of topics, the presentation, and the quality of all content are extraordinary.
+
+**Finance**
+
+- [**The Little Book of Common Sense Investing**](https://www.amazon.com.br/Little-Book-Common-Sense-Investing/dp/0470102101), by *John Bogle*. In this book I found the only way to invest in the stock market: low cost well diversified index funds. I consider this book to be a must for anyone feeling lost in the world of investments. If you like it, you should also take a look in [Ben Felix's YT channel]((https://www.youtube.com/@BenFelixCSI)). Yes, I'm a proud Boglehead!
+
+- [**Principles of Corporate Finance**](https://www.amazon.com.br/Principles-Corporate-Finance-Richard-Brealey/dp/1260565556). This is a book on corporate finance with a more academic approach. Even though I left academia, my preference for learning from academics remained. I must mention that I wouldn't have come across this book if this [spectacular course by Professor Andrew Lo](https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW) was not available for free on YouTube.
+
+- [**The Plain Bagel (YT channeç)**](https://www.youtube.com/@ThePlainBagel). "Plain and simple". I've learned and became more interested in the world of finance much because of the content present in this channel. It's worth checking out.
+
+**Artificial Intelligence**
 
 - [**Gabriel Schleder**](https://gschleder.github.io/) [**machine learning tutorial**](https://github.com/gschleder/MLtutorial). This tutorial was presented at the 2019 Autumn Meeting of the Brazilian Society of Physics (EOSBF) and was the first contact that I had with machine learning (besides hearing about it from others). It is based on his [very nice paper about machine learning applied to materials science](https://iopscience.iop.org/article/10.1088/2515-7639/ab084b/pdf).
 
 - [**AlphaStar**](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii): [**the artificial intelligence made by google that beat StarCraft II top players**](https://www.nature.com/articles/s41586-019-1724-z.epdf?shared_access_token=eeinxBhKk8Z48E6x6FHZVdRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKav0uumYG1ZCvYjtJGSnL-x-42q3C4KrjbWLIOQpxrJaIK4LbpApBj-NfrJ4LKlrAr9U1vpqf2aPrrhSoGwhs1w%3D%3D). For those who don't know, I'm a huge fan of the real time strategy game StarCraft II. I was very impressed when I saw [AlphaStar winning 1v1 matches against professional players like TLO](https://www.youtube.com/watch?v=DpRPfidTjDA), which pushed me to learn more about the subject.
 
-- [**A self-adaptive microwave cloak using Deep Learning**](https://www.researchgate.net/publication/340110736_Deep-learning-enabled_self-adaptive_microwave_cloak_without_human_intervention). Since metasurface cloaks are related to my research (see for instance [this work from my co-advisor](https://arxiv.org/pdf/1308.5022.pdf)), this paper made me realize that machine learning can be applied in all areas of science and technology.
-
 - [**Introduction to Statistical Learning: With Applications in R**](https://www.amazon.com.br/Introduction-Statistical-Learning-Applications-103/dp/1461471370), by *Gareth James*. Since I have a strong academic background, I had a much better time with this book than others. I find amazing that every statistical concept and machine learning algorithm in this book is presented in a very clear way. I also recommend the [Andrew Ng machine learning course](https://www.coursera.org/learn/machine-learning?) available at Coursera as an excellent introduction to the subject.
+
+**Causal Inference**
 
 - [**The book of Why: The New Science of Cause and Effect**](https://www.amazon.com.br/Book-Why-Science-Cause-Effect/dp/1541698967), by *Judea Pearl*. Only after I started working with data science that I realized how limited machine learning is as a tool for understanding the causes of observable effects (try using a ML model to estimate the effect of raising prices of hotel rooms on their occupation rates to see what happens!). This book is an amazing introduction on causal inference, with really interesting comments on the limits of the current state of AI (and even on the limits of statistical analysis!).
 
